@@ -11,7 +11,7 @@ This project is a simple ATM (Automated Teller Machine) interface implemented in
 - **PIN Authentication**: Users are required to authenticate themselves with a PIN to access the ATM functionalities.
 - **Multiple Accounts**: Supports multiple accounts with different balances.
 
-## Requirements
+## Requirements and Installations
 
 - Java Development Kit (JDK) installed on your system.
 - Any Java IDE (Integrated Development Environment) like IntelliJ IDEA, Eclipse, or NetBeans.
